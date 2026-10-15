@@ -4,7 +4,7 @@
 
 📊 Scraped from live mobile app sessions  
 💰 **$2 USD per 1,000 products**  
-✅ 35,000+ products already collected
+✅ 35,000,000 + products already collected
 
 ---
 
