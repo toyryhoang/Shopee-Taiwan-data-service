@@ -65,7 +65,20 @@ Study e-commerce platform dynamics, marketplace economics, consumer behavior.
 
 ## 📋 Data Format
 
-JSON response for each product:
+**Live examples from our database:**
+
+- **[demo_product.json](demo_product.json)** — Essential fields (74 lines, ~3KB)
+- **[demo_product_full.json](demo_product_full.json)** — COMPLETE response (10,062 lines, ~500KB) ⭐
+
+The full response includes:
+- ✅ **103 item fields**: title, price, rating, images, attributes, 61 models/variants, tier variations...
+- ✅ **46 shop details**: name, location, rating, response rate, join date, followers, verification...
+- ✅ **19 review metrics**: rating breakdown by star, top reviews with text, helpful votes, tags...
+- ✅ **18 shipping fields**: methods, fees, free shipping threshold, delivery time estimates...
+- ✅ **21 pricing fields**: discounts, flash sales, vouchers, coins, promotions, membership prices...
+- ✅ **Videos, vouchers, badges, categories, and more!**
+
+JSON response schema:
 
 ```json
 {
