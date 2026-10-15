@@ -29,4 +29,4 @@ Response time: < 12 hours
 
 🆓 Free 10-product sample available
 
-Full details: [GitHub repo link]
+Full details: https://github.com/toyryhoang/Shopee-Taiwan-data-service
