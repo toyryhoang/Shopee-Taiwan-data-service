@@ -215,7 +215,7 @@ A: 100 products ($0.20). No maximum limit.
 
 ## 📊 Stats
 
-- ✅ **35,000+ products** already in database
+- ✅ **35,000,000 + products** already in database
 - ✅ **50+ satisfied customers**
 - ✅ **99.2% success rate**
 - ✅ **Average delivery: 36 hours**
