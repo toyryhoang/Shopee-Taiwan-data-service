@@ -1,0 +1,32 @@
+🛒 SHOPEE TAIWAN PRODUCT DATA - $2/1000 PRODUCTS
+
+Real product data scraped from Shopee Taiwan mobile app.
+
+✅ Complete info: names, prices, stock, ratings, images, descriptions
+✅ 35,000+ products in database
+✅ 99%+ success rate
+✅ Delivery in 24-48 hours
+
+💰 PRICING:
+• 1,000 products = $2
+• 10,000 products = $18
+• 100,000+ = custom pricing
+
+🎯 USE CASES:
+• Price monitoring & competitor analysis
+• Market research & trend analysis
+• Inventory tracking
+• E-commerce automation
+• Academic research
+
+📦 DELIVERY:
+CSV, JSON, or Excel format via secure download link
+
+📧 Contact:
+Email: zoncys@gmail.com
+Telegram: @zhnaoalda
+Response time: < 12 hours
+
+🆓 Free 10-product sample available
+
+Full details: [GitHub repo link]

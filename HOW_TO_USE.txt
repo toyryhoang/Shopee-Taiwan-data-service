@@ -1,0 +1,25 @@
+shopee-data-service/
+├── README.md          # Main landing page with full details
+├── PITCH.md           # Short version for quick posting
+├── SAMPLE_DATA.md     # Example product JSON structure
+└── ORDER_FORM.txt     # Template for customers to fill out
+
+---
+
+How to use this repo:
+
+1. Push to GitHub as public repo
+2. Use README.md as the main page
+3. Use PITCH.md for:
+   - Reddit posts (r/slavelabour, r/forhire, etc.)
+   - Fiverr gig description
+   - Forum signatures
+   - Social media bio links
+
+4. Send SAMPLE_DATA.md to prospects who ask "what data do I get?"
+5. Send ORDER_FORM.txt for them to fill out
+
+Update contact info:
+- Replace "zoncys@gmail.com" with real email
+- Replace "@zhnaoalda" with real Telegram handle
+- Add payment links (PayPal.me, Stripe checkout, crypto wallet)

@@ -1,0 +1,6 @@
+# No code files to ignore, this is a marketing-only repo
+# Add any local test files here if needed
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

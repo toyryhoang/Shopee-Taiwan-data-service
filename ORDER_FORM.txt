@@ -1,0 +1,90 @@
+SHOPEE TAIWAN PRODUCT DATA - ORDER FORM
+
+Please fill out this form and send to: zoncys@gmail.com
+
+═══════════════════════════════════════════════════════════════
+
+CONTACT INFORMATION
+-------------------
+Name:
+Email:
+Telegram (optional):
+
+
+ORDER DETAILS
+-------------
+[ ] Option 1: I have a list of product URLs (attach .txt or .csv file)
+    Number of URLs: _______
+
+[ ] Option 2: Scrape by search criteria (describe below)
+    Keywords:
+    Category:
+    Price range: ______ to ______ TWD
+    Min rating:
+    Shop (if specific):
+    Other filters:
+
+[ ] Option 3: Bulk category/shop dump
+    Description:
+
+
+ESTIMATED QUANTITY
+------------------
+Approximately how many products? _______
+
+Expected cost: $_______ (at $2 per 1000)
+
+
+DELIVERY FORMAT
+---------------
+[ ] CSV
+[ ] JSON
+[ ] Excel (.xlsx)
+
+
+URGENCY
+-------
+[ ] Standard (24-48 hours) - No extra fee
+[ ] Rush (12 hours) - +50%
+[ ] Same day (6 hours) - +100%
+
+
+FRESHNESS REQUIREMENT
+---------------------
+[ ] Existing data (scraped within last 7 days) - No extra fee
+[ ] Fresh scrape (re-scrape all URLs now) - +$0.001 per product
+
+
+RECURRING ORDER
+---------------
+[ ] One-time order
+[ ] Weekly updates - Contact for subscription pricing
+[ ] Monthly updates - Contact for subscription pricing
+
+
+PAYMENT METHOD
+--------------
+[ ] PayPal
+[ ] Stripe (credit card)
+[ ] USDT/USDC (crypto)
+[ ] Wire transfer ($500+ orders only)
+
+
+SPECIAL REQUESTS / NOTES
+-------------------------
+
+
+
+
+═══════════════════════════════════════════════════════════════
+
+After submitting this form, you will receive:
+
+1. Quote confirmation with final price
+2. Payment invoice/link
+3. Estimated delivery time
+4. Sample data (if first-time customer)
+
+Typical response time: < 12 hours
+
+Questions? Contact us at zoncys@gmail.com or @zhnaoalda on Telegram
